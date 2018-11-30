@@ -10,10 +10,9 @@ See the License for the specific language governing permissions and limitations 
 """
 
 from django.conf.urls import patterns
+from home_application import views
+from django.conf.urls import url
 
-urlpatterns = patterns(
-    'home_application.views',
-    (r'^$', 'home'),
-    (r'^dev-guide/$', 'dev_guide'),
-    (r'^contactus/$', 'contactus'),
-)
+urlpatterns = [
+    url(r'^$',views.home),
+]
