@@ -8,5 +8,7 @@ from django.conf.urls import url
 
 
 urlpatterns = [
-    url(r'^form$', views.form),
+    url(r'^forms/', views.forms),
+    url(r'^tables/', views.tables),
+    url(r'^bootstrap/', views.bootstrap),
 ]
