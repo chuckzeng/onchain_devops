@@ -1,7 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8e48c46-a1c5-40f7-8db1-2834dc2a51b8" name="Default" comment="" />
+    <list default="true" id="b8e48c46-a1c5-40f7-8db1-2834dc2a51b8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/static/admin/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/changelists.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/changelist-bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/changelist-bg_rtl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/default-bg-reverse.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/default-bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/deleted-overlay.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-no.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-yes.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon_addlink.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon_alert.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon_calendar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon_changelink.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon_clock.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon_deletelink.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon_error.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon_searchbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon_success.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/inline-delete-8bit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/inline-delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/inline-restore-8bit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/inline-restore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/inline-splitter-bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/nav-bg-grabber.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/nav-bg-reverse.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/nav-bg-selected.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/nav-bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/selector-icons.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/selector-search.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/sorting-icons.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/tooltag-add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/LICENSE-JQUERY.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/SelectBox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/actions.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/collapse.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/inlines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/inlines.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/jquery.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/related-widget-wrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/timeparse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/urlify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bkDialog-1.0/css/ui-dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bkDialog-1.0/js/dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/css/bootstrap_noresponsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/js/bootstrap-treeview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap-3.3.4/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap_noresponsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/crown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/dev-guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/expre_403.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/expre_500.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/expre_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/getheadimg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/icom_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/icom_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/icom_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/weixin_icom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/csrftoken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery-1.10.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.json-2.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/settings.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,26 +138,26 @@
       <file leaf-file-name="settings_testing.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf/settings_testing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="375">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings_production.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings_production.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf/settings_production.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+            <state relative-caret-position="375">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home_application/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -74,16 +174,9 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home_application/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="70" lean-forward="true" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
+            <state relative-caret-position="247">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/log.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-53" />
           </provider>
         </entry>
       </file>
@@ -92,6 +185,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="47" column="68" lean-forward="true" selection-start-line="47" selection-start-column="68" selection-end-line="47" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -114,6 +216,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>开发指引</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -124,8 +231,8 @@
         <option value="$PROJECT_DIR$/templates/home_application/welcome.html" />
         <option value="$PROJECT_DIR$/home_application/views.py" />
         <option value="$PROJECT_DIR$/conf/default.py" />
-        <option value="$PROJECT_DIR$/conf/settings_testing.py" />
         <option value="$PROJECT_DIR$/conf/settings_production.py" />
+        <option value="$PROJECT_DIR$/conf/settings_testing.py" />
       </list>
     </option>
   </component>
@@ -161,6 +268,21 @@
               <item name="monitor" type="b2602c69:ProjectViewProjectNode" />
               <item name="monitor" type="462c0819:PsiDirectoryNode" />
               <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monitor" type="462c0819:PsiDirectoryNode" />
+              <item name="home_application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monitor" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monitor" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,7 +350,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50080776" side_tool="true" weight="0.30620688" />
@@ -325,37 +446,9 @@
     <entry file="file://$PROJECT_DIR$/home_application/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="94" column="7" lean-forward="true" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home_application/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_application/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="70" lean-forward="true" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/log.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-53" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_application/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
@@ -389,17 +482,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf/settings_testing.py">
+    <entry file="file://$PROJECT_DIR$/conf/settings_production.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="375">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf/settings_production.py">
+    <entry file="file://$PROJECT_DIR$/conf/settings_testing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        <state relative-caret-position="375">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_application/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="47" column="68" lean-forward="true" selection-start-line="47" selection-start-column="68" selection-end-line="47" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home_application/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_application/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
