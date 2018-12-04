@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8e48c46-a1c5-40f7-8db1-2834dc2a51b8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_application/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_application/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nonobank_monitor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nonobank_monitor/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nonobank_monitor/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/nonobank_monitor/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/bootstrap-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bootstrap-grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tables.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +16,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="e#694#703#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/default.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="150" selection-start-line="150" selection-end-line="150" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+              <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -37,9 +58,16 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="148" column="7" lean-forward="true" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
+            <state relative-caret-position="147">
+              <caret line="63" column="53" selection-start-line="63" selection-start-column="53" selection-end-line="63" selection-end-column="53" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sb-admin.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/sb-admin.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2998" />
           </provider>
         </entry>
       </file>
@@ -55,7 +83,7 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nonobank_monitor/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
+            <state relative-caret-position="150">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
@@ -64,7 +92,7 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home_application/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="405">
               <caret line="27" column="77" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="77" />
               <folding>
                 <element signature="e#695#706#0" expanded="true" />
@@ -76,7 +104,7 @@
       <file leaf-file-name="forms.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/forms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="1950">
               <caret line="130" column="9" selection-start-line="130" selection-start-column="9" selection-end-line="130" selection-end-column="9" />
             </state>
           </provider>
@@ -100,6 +128,7 @@
       <find>css</find>
       <find>img</find>
       <find>数据</find>
+      <find>sb-admin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -141,7 +170,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -180,6 +209,17 @@
               <item name="monitor" type="462c0819:PsiDirectoryNode" />
               <item name="nonobank_monitor" type="462c0819:PsiDirectoryNode" />
               <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monitor" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monitor" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="monitor" type="b2602c69:ProjectViewProjectNode" />
@@ -257,30 +297,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50080776" side_tool="true" weight="0.30620688" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" visible="true" weight="0.325" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" visible="true" weight="0.32413793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +335,51 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/tag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nonobank_monitor/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_application/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="77" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="77" />
+          <folding>
+            <element signature="e#695#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="130" column="9" selection-start-line="130" selection-start-column="9" selection-end-line="130" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="148" column="7" lean-forward="true" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -335,23 +420,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/login.html" />
     <entry file="file://$PROJECT_DIR$/home_application/models.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home_application/welcome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home_application/welcome.html" />
     <entry file="file://$PROJECT_DIR$/home_application/admin.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -377,13 +450,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home_application/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home_application/home.html" />
     <entry file="file://$PROJECT_DIR$/static/img/400x400.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -415,71 +482,14 @@
     <entry file="file://$PROJECT_DIR$/nonobank_monitor/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#694#703#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/table2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-478" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/bootstrap-elements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="170" column="63" lean-forward="true" selection-start-line="170" selection-start-column="63" selection-end-line="170" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="177" selection-start-line="145" selection-start-column="12" selection-end-line="177" />
-          <folding>
-            <element signature="e#5317#5323#0#HTML" expanded="true" />
-            <element signature="e#5323#5329#0#HTML" expanded="true" />
-            <element signature="e#5333#5339#0#HTML" expanded="true" />
-            <element signature="e#5339#5345#0#HTML" expanded="true" />
-            <element signature="e#5501#5507#0#HTML" expanded="true" />
-            <element signature="e#5507#5513#0#HTML" expanded="true" />
-            <element signature="e#5517#5523#0#HTML" expanded="true" />
-            <element signature="e#5523#5529#0#HTML" expanded="true" />
-            <element signature="e#5685#5691#0#HTML" expanded="true" />
-            <element signature="e#5691#5697#0#HTML" expanded="true" />
-            <element signature="e#5701#5707#0#HTML" expanded="true" />
-            <element signature="e#5707#5713#0#HTML" expanded="true" />
-            <element signature="e#5866#5872#0#HTML" expanded="true" />
-            <element signature="e#5872#5878#0#HTML" expanded="true" />
-            <element signature="e#5882#5888#0#HTML" expanded="true" />
-            <element signature="e#5888#5894#0#HTML" expanded="true" />
-            <element signature="e#6050#6056#0#HTML" expanded="true" />
-            <element signature="e#6056#6062#0#HTML" expanded="true" />
-            <element signature="e#6066#6072#0#HTML" expanded="true" />
-            <element signature="e#6072#6078#0#HTML" expanded="true" />
-            <element signature="e#6233#6239#0#HTML" expanded="true" />
-            <element signature="e#6239#6245#0#HTML" expanded="true" />
-            <element signature="e#6249#6255#0#HTML" expanded="true" />
-            <element signature="e#6255#6261#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/default.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="122" column="1" lean-forward="true" selection-start-line="122" selection-start-column="1" selection-end-line="122" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nonobank_monitor/migrations/urls.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/bootstrap-elements.html" />
+    <entry file="file://$PROJECT_DIR$/templates/test.html" />
+    <entry file="file://$PROJECT_DIR$/nonobank_monitor/migrations/urls.py" />
     <entry file="file://$PROJECT_DIR$/nonobank_monitor/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -526,32 +536,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="1950">
           <caret line="130" column="9" selection-start-line="130" selection-start-column="9" selection-end-line="130" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nonobank_monitor/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
+        <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home_application/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="405">
           <caret line="27" column="77" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="77" />
           <folding>
             <element signature="e#695#706#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -562,10 +565,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/sb-admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2998" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#694#703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="150" selection-start-line="150" selection-end-line="150" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="148" column="7" lean-forward="true" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
+        <state relative-caret-position="147">
+          <caret line="63" column="53" selection-start-line="63" selection-start-column="53" selection-end-line="63" selection-end-column="53" />
         </state>
       </provider>
     </entry>
