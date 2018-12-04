@@ -2,10 +2,8 @@
 # -*- coding:utf-8 -*-
 # author: ChuckZeng
 
-
-from nonobank_monitor import views
 from django.conf.urls import url
-
+from nonobank_monitor import views
 
 urlpatterns = [
     url(r'^forms/', views.forms),
