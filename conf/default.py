@@ -120,6 +120,7 @@ INSTALLED_APPS = (
     'account',
     'home_application',
     'nonobank_monitor',
+    'navi',
 )
 
 # ==============================================================================
