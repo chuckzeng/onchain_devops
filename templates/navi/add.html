@@ -18,12 +18,12 @@
       <h1>
         <small></small>
       </h1>
-        <div class="alert alert-info alert-dismissible" style="display: {{ display_control }};">
+        <div class="alert alert-info alert-dismissible" style="display:${ display_control }">
                 <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-                <h4>{{ tips }}</h4>
-              </div>
+                <h4>${ tips }</h4>
+        </div>
       <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-link"></i> Level</a></li>
+        <li><a href="#"><i class="fa fa-link"></i>Level</a></li>
         <li class="active">Here</li>
       </ol>
     </section>
@@ -45,9 +45,8 @@
           </div>
         </div>
         <div class="box-body">
-      <form action="{% url 'add' %}" method="post">
-        {% csrf_token %}
-        {{ n_form.as_p }}
+      <form action="${SITE_URL}navi/add/" method="post">
+         ${ n_form.as_p() }
         <input type="submit" class="btn btn-primary" style="width: 60pt" value="提交">&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="{% url 'navi' %}"><li style="width: 60pt" class="btn btn-primary" value="">返回</li></a><br>
       </form>

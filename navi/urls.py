@@ -3,5 +3,6 @@ from navi import views
 
 urlpatterns = [
     url(r'^$', views.index, name='navi'),
-    url(r'^add/', views.add,),
+    url(r'^add/', views.add),
+    url(r'^manage/', views.manage),
 ]
