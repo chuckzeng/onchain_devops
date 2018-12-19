@@ -10,9 +10,9 @@ See the License for the specific language governing permissions and limitations 
 """
 
 from django.conf.urls import patterns
-from home_application import views
+from navi import views
 from django.conf.urls import url
 
 urlpatterns = [
-    url(r'^$',views.home),
+    url(r'^$',views.index),
 ]
