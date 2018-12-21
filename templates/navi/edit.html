@@ -57,7 +57,7 @@
 </div>
 <script type="text/javascript">
         var index=parent.layer.getFrameIndex(window.name);
-        var success = ${ status };
+        var success = {% status %};
         if ( success == '1' ) {
             parent.$("#handle_status").val('1');
               parent.layer.close(index);

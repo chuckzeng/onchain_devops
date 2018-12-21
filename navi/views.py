@@ -61,10 +61,13 @@ def save(request):
         navi_item.name = name
         navi_item.description = desc
         navi_item.url = url
-        navi_item.save()
-        status = "1"
+        try:
+            navi_item.save()
+            status = "1"
+        except AttributeError,e:
+            print e.message
     else:
         status = "2"
     allnavi = models.navi.objects.all()
-    print status
+    # print status
     return render_mako_context(request, "navi/edit.html", locals())
